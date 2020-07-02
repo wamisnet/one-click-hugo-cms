@@ -5,7 +5,6 @@ description: こんにちは
 ---
 wamiですよ
 
-
-
 ![](img/e7ivview_400x400.jpg)
 
+> *
